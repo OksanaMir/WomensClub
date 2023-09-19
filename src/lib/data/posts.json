@@ -1,0 +1,68 @@
+{
+	"posts": [
+		{
+			"id": "act#1",
+			"tab_name": "meeting1",
+			"status": "passed",
+			"content": {
+				"languges": {
+					"en": {
+						"heading": "",
+						"body": ""
+					},
+					"ua": {
+						"heading": "",
+						"body": ""
+					},
+					"cz": {
+						"heading": "",
+						"body": ""
+					},
+					"ru": {
+						"heading": "",
+						"body": ""
+					}
+				},
+				"media": {
+					"photos": {
+						"before": "",
+						"after": ["/lib/data/images/meet1.jpeg"]
+					},
+					"video": []
+				}
+			}
+		},
+		{
+			"id": "act#2",
+			"tab_name": "meeting2",
+			"status": "passed",
+			"content": {
+				"languges": {
+					"en": {
+						"heading": "",
+						"body": ""
+					},
+					"ua": {
+						"heading": "",
+						"body": ""
+					},
+					"cz": {
+						"heading": "",
+						"body": ""
+					},
+					"ru": {
+						"heading": "",
+						"body": ""
+					}
+				},
+				"media": {
+					"photos": {
+						"before": "",
+						"after": ["/lib/data/images/meet2.jpeg"]
+					},
+					"video": []
+				}
+			}
+		}
+	]
+}

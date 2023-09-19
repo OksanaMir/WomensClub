@@ -1,0 +1,9 @@
+{
+    "home": "Домой",
+    "about": "О нас",
+    "events": "События",
+    "search": "Поиск...",
+    "contact": "Контакт",
+    "reviews": "Отзывы",
+    "notification": "У вас {{count:gt; 0:{{count}} новых {{count; 1:message; default:messages}}!; default:no messages...}}"
+  }

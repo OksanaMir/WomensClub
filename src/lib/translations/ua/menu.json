@@ -1,0 +1,9 @@
+{
+    "home": "Головна",
+    "about": "Про нас",
+    "events": "Події та заходи",
+    "search": "Пошук...",
+    "contact": "Контакти",
+    "reviews": "Відгуки",
+    "notification": "You have {{count:gt; 0:{{count}} new {{count; 1:message; default:messages}}!; default:no messages...}}"
+  }
